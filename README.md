@@ -1,2 +1,4 @@
 # FantasySports_UnsupervisedLearning
-MIT Professional Education Project: Fantasy Sports Clustering Analysis Unsupervised Learnign
+MIT Professional Education Project: Fantasy Sports Clustering Analysis Unsupervised Learning
+OnSports is a fantasy sports platform that has fantasy leagues for many different sports and has witnessed an increasing number of participants globally over the past 5 years. For each player, a price is set at the start, and the price keeps changing over time based on the performance of the players in the real world. With the new English Premier League season about to start, they have collected data from the past season and want to analyze it to determine the price of each player for the start of the new season. OnSports have hired you as a data scientist and asked you to conduct a cluster analysis to identify players of different potentials of each player based on previous season performance. This will help them understand the patterns in player performances and fantasy returns and decide the exact price to be set for each player for the upcoming football season.
+
